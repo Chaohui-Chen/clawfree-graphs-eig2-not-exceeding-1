@@ -1,4 +1,9 @@
-# Connected claw - free graphs whose second largest eigenvalue does not exceed 1
+# Computational Companion to: "Connected Claw-Free Graphs whose Second Largest Eigenvalue Does Not Exceed 1"
+
+**Authors**: Chaochui Chen, Haiying Shan, Muhuo Liu, Zoran Stanić  
+**Software**: SageMath 10.5+  
+**Date**: February 2025
+---
  #### This code implements calculations for the paper:"Connected claw - free graphs whose second largest eigenvalue does not exceed 1"
 
 ### Variable Correspondence Table

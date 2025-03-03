@@ -1,4 +1,4 @@
-# clawfree-graphs-eig2-not-exceeding-1
+# Connected claw - free graphs whose second largest eigenvalue does not exceed 1
  #### This code implements calculations for the paper:"Connected claw - free graphs whose second largest eigenvalue does not exceed 1"
 
 ### Variable Correspondence Table
